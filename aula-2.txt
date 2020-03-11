@@ -1,0 +1,8 @@
+Processo -> Sequência de atividades com uma finalidade
+
+Modelo de Processo -> Como as atividades interagem entre si
+
+Modelos -> Sequencial, Incremental, Evolutivo, Métodos Ágeis
+
+Senha Moodle -> IF63C
+
