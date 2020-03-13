@@ -1,0 +1,11 @@
+Requisitos -> Funções ou restrições do sistema
+
+Engenharia de Requisitos -> Produção e Gerenciamento de Requisitos
+
+Estudo de Viabilidade -> Será que vale a pena fazer esse projeto ?
+Elicitação(Levantamentos) de Requisitos -> Entender o que será nescessário que o projeto faça; suas funcionalidades; (entender o que o cliente quer é a tarefa mais complexa)
+Regra de Negócio -> Requisito de Domínio (ja vimos em bd)
+Veremos na disciplina -> Requisitos de usuario e Requisitos de sistema
+
+Meio da disciplina -> Documento de Definição
+Final da disciplina -> Documento de Especificação
