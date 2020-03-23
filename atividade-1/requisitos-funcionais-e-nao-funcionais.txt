@@ -1,0 +1,9 @@
+RF01 - Enviar e receber mensagens de texto
+RF02 - Enviar e receber midias (audios, fotos e videos)
+RF03 - Efetuar chamadas de voz
+RF04 - Efetuar videoconferencias
+RF05 - Efetuar encriptação ponta a ponta do conteúdo
+
+RNF01 - Marcar mensagens como visualizadas
+RNF02 - Opção de dark mode
+RNF03 - Nescessário usar a camera do celular para autenticar no desktop
