@@ -1,0 +1,38 @@
+1)  Primeiro faz-se o questionário para selecionar perguntas relevantes; no proximo estágio, faz-se a entrevista utilizando as perguntas levantadas no questionamento. Ao final, tais repostas serão refinadas, uma vez que o objetivo ja esta definido, para produzir um documento de alta qualidade
+
+2)  O analista provavelmente não analisou as questões relevantes para levantar em uma discussão com o cliente e fez perguntas erradas
+
+3)  Usuário -> Abstrato, descreve de um jeito não técnico funções e restrições.
+    Sistema -> Detalhado, descreve de um jeito técnico e padronizado funções e restrições
+
+4)  Importante para entender questões que não são claramente formuladas pelo cliente, além de fornecer uma visão proxima do ambiente do cliente
+
+5)  A
+
+6)  Não
+
+7)  Errado
+
+8)  E
+
+9)  D
+
+10) E
+
+11) C
+
+12) C
+
+13) D
+
+14) 
+
+15) D
+
+16) E
+
+17) E
+
+18) D
+
+19) F; F; F; NF; NF;

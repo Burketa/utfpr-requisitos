@@ -1,0 +1,53 @@
+RF2: O sistema deve dar uma mensagem de alerta quando o
+usuário tentar inserir uma informação incompleta. Essa
+mensagem deve questionar o usuário se ele deseja cancelar a
+operação, completar a informação ou concluir a inserção como
+está.
+
+Correção:
+
+--------------------------------------------------------------
+
+RF04: O sistema não deve aceitar devolução de livros se
+o usuário não estiver com a carteirinha da biblioteca no
+momento.
+
+Correção:
+
+--------------------------------------------------------------
+
+RF05: O sistema não deve permitir aos usuários períodos
+de empréstimo maiores que 15 dias.
+
+Correção:
+
+--------------------------------------------------------------
+
+RF09: Professores podem retirar livros por um período de
+4 semanas.
+
+Correção:
+
+--------------------------------------------------------------
+
+RF15: Quando um novo livro é adicionado ao acervo, ele
+permanece em uma prateleira especial por um período
+de um mês
+
+Correção:
+
+--------------------------------------------------------------
+
+RF20: Se o número de dias que o usuário está em atraso
+é menor que uma semana, ele deve pagar uma taxa de
+R$ 1,00; se o número é maior que uma semana, a taxa é
+de R$ 0,50 por dia.
+
+Correção:
+
+--------------------------------------------------------------
+
+RNF1: O sistema deve fornecer os resultados tão rápido
+quanto possível.
+
+Correção:

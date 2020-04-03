@@ -1,0 +1,14 @@
+1)
+
+	a)  São seguidas heurísticas para analisar a interface; normalmente utilizadas as 10 heurísticas de Nielsen, sendo elas: Visibilidade do Status do Sistema, Correspondência entre o sistema e o mundo real, , Controle do usuário e liberdade, Consistência e Uso de padrões, Prevenção de erros, Reconhecimento ao invés de memorização, Flexibilidade e eficiência de uso, Design estético e minimalista, Ajude os usuários a reconhecer, diagnosticar e recuperar erros, Ajuda e documentação.
+
+	b)  Em uma reunião, cada pessoa interpreta um ator do sistema
+
+	c)  Desenhos ou imagens de como seriam varias telas do sistema em momentos diferentes, seguindo um fluxo
+
+	d)  As ações exercidas pelo usuário no sistema são descritas em formato de história, ex:
+    Ariovaldo, sendo um usuário do sistema, quer cadastrar um novo registro na base de dados.
+    Ariovaldo então toca no botão adicionar, fazendo uma janela se abrir para inserir as informações.
+    Após as informações serem inseridas por Ariovaldo, o mesmo toca no botão ok, gravando as informações.
+
+2)	Gap Analysis, Customer Journey Mapping, Data Flow Diagram
